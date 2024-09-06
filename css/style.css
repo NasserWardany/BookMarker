@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(247, 236, 222);
+}
+
+
+.container h1 {
+    font-size: 50px;
+    font-family: Pacifico, cursive;
+    color: rgb(53, 46, 40);
+    isolation: isolate;
+}
